@@ -1,0 +1,8 @@
+# MythicTokens Configuration
+settings:
+  debug: false
+  update-check: true
+  save-interval: 300 # Seconds between auto-saving player data
+  particle-density: medium # low, medium, high
+  sound-volume: 1.0
+  sound-pitch: 1.0

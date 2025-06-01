@@ -1,0 +1,161 @@
+tokens:
+  blaze:
+    name: "<gold>Blaze Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to shoot a fireball"
+      - "<yellow>Sneak + right-click to ignite nearby entities"
+    ability: blaze
+    cooldown: 10
+  creeper:
+    name: "<green>Creeper Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to create a small explosion"
+      - "<yellow>Sneak + right-click to charge up for a bigger explosion"
+    ability: creeper
+    cooldown: 15
+  drowned:
+    name: "<aqua>Drowned Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to throw a trident"
+      - "<yellow>Sneak + right-click to summon drowned minions"
+    ability: drowned
+    cooldown: 12
+  enderman:
+    name: "<dark_purple>Enderman Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to teleport short distance"
+      - "<yellow>Sneak + right-click to open teleport GUI"
+    ability: enderman
+    cooldown: 8
+  endermite:
+    name: "<purple>Endermite Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to spawn endermites"
+      - "<yellow>Sneak + right-click to create a void trap"
+    ability: endermite
+    cooldown: 10
+  evoker:
+    name: "<dark_gray>Evoker Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to summon vexes"
+      - "<yellow>Sneak + right-click to cast fangs"
+    ability: evoker
+    cooldown: 15
+  guardian:
+    name: "<blue>Guardian Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to shoot a laser"
+      - "<yellow>Sneak + right-click to apply mining fatigue"
+    ability: guardian
+    cooldown: 12
+  hoglin:
+    name: "<red>Hoglin Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to charge forward"
+      - "<yellow>Sneak + right-click to knockback nearby entities"
+    ability: hoglin
+    cooldown: 10
+  iron_golem:
+    name: "<gray>Iron Golem Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to gain resistance"
+      - "<yellow>Sneak + right-click to summon a golem"
+    ability: iron_golem
+    cooldown: 20
+  phantom:
+    name: "<dark_blue>Phantom Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to fly temporarily"
+      - "<yellow>Sneak + right-click to summon phantoms"
+    ability: phantom
+    cooldown: 15
+  piglin_brute:
+    name: "<gold>Piglin Brute Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to swing a powerful axe"
+      - "<yellow>Sneak + right-click to gain strength"
+    ability: piglin_brute
+    cooldown: 12
+  ravager:
+    name: "<dark_red>Ravager Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to charge and deal damage"
+      - "<yellow>Sneak + right-click to roar and scare mobs"
+    ability: ravager
+    cooldown: 15
+  shulker:
+    name: "<light_purple>Shulker Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to shoot shulker bullets"
+      - "<yellow>Sneak + right-click to teleport upwards"
+    ability: shulker
+    cooldown: 10
+  slime:
+    name: "<green>Slime Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to bounce"
+      - "<yellow>Sneak + right-click to split into smaller slimes"
+    ability: slime
+    cooldown: 12
+  snow_golem:
+    name: "<white>Snow Golem Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to throw snowballs"
+      - "<yellow>Sneak + right-click to create a snow trail"
+    ability: snow_golem
+    cooldown: 8
+  spider:
+    name: "<dark_gray>Spider Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to shoot webs"
+      - "<yellow>Sneak + right-click to climb walls"
+    ability: spider
+    cooldown: 10
+  strider:
+    name: "<orange>Strider Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to gain fire resistance"
+      - "<yellow>Sneak + right-click to walk on lava"
+    ability: strider
+    cooldown: 15
+  warden:
+    name: "<dark_aqua>Warden Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to emit sonic despair"
+      - "<yellow>Sneak + right-click to apply darkness"
+    ability: warden
+    cooldown: 20
+  wither_skeleton:
+    name: "<black>Wither Skeleton Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to apply wither effect"
+      - "<yellow>Sneak + right-click to summon wither skulls"
+    ability: wither_skeleton
+    cooldown: 12
+  zombie:
+    name: "<dark_green>Zombie Token"
+    material: NETHER_STAR
+    lore:
+      - "<yellow>Right-click to summon zombie minions"
+      - "<yellow>Sneak + right-click to gain hunger effect"
+    ability: zombie
+    cooldown: 15

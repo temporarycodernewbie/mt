@@ -1,0 +1,15 @@
+# MythicTokens Language Configuration
+messages:
+  no-permission: "<red>You don't have permission to use this command!</red>"
+  invalid-player: "<red>Player <aqua>{player}</aqua> not found!</red>"
+  invalid-token: "<red>Invalid token type: <aqua>{token}</aqua>!</red>"
+  token-given: "<green>Gave token <aqua>{token}</aqua> to <aqua>{player}</aqua>!</green>"
+  token-removed: "<green>Removed token from <aqua>{player}</aqua>!</green>"
+  token-toggled: "<green>Toggled token <aqua>{token}</aqua>!</green>"
+  token-equipped: "<green>Equipped <aqua>{token}</aqua> token!</green>"
+  no-tokens-available: "<red>No tokens available!</red>"
+  usage: "<red>Usage: /token [give|remove|toggle] <player|token> [token]</red>"
+  cooldown: "<red>{ability} on cooldown: <aqua>{time}s</aqua></red>"
+  ability-activated: "<green>{ability} activated!</green>"
+  teleport-success: "<green>Teleported to <aqua>{player}</aqua>!</green>"
+  teleport-failed: "<red>Player <aqua>{player}</aqua> not found!</red>"

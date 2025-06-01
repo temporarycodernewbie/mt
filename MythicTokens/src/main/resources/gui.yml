@@ -1,0 +1,13 @@
+# MythicTokens GUI Configuration
+token-gui:
+  title: "Mythic Tokens"
+  size: 27
+  background-item:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+teleport-gui:
+  title: "Teleport Menu"
+  size: 9
+  background-item:
+    material: GRAY_STAINED_GLASS_PANE
+    name: " "
